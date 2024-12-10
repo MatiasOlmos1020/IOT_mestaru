@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+
+# Archivos de configuración de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Configuración específica del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+test.log
+
+# Configuración de entornos de desarrollo
+.env
+
+# Archivos de Docker (si decides incluirlos después)
+*.env
+
+# Archivos generados por herramientas de pruebas
+.coverage
+
+# Archivos y carpetas de IDEs
+.vscode/
+.idea/
+*.iml
